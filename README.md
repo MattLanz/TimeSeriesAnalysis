@@ -1,5 +1,5 @@
 # Time Series Analysis
-Project for the exam Streaming Data Management and Time Series Analysis. The objective of this analysis was to develop 3 models, belonging to the three families typically used in the analysis of time series, ARIMA, UCM, and Machine Learning, to study and correctly predict the electricity consumption in Morocco in a year
+Project for the exam Streaming Data Management and Time Series Analysis. The objective of this analysis was to develop 3 models, belonging to the three families typically used in the analysis of time series, ARIMA, UCM, and Machine Learning, to study and correctly predict the electricity consumption in Morocco in a year.
 
 # List of content
  
