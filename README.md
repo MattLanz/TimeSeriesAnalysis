@@ -1,4 +1,4 @@
-# TimeSeriesAnalysis
+# Time Series Analysis
 Project for the exam Streaming Data Management and Time Series Analysis
 
 # List of content
