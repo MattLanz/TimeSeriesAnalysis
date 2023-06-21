@@ -1,5 +1,10 @@
 # Time Series Analysis
+
+![Streaming](https://github.com/MattLanzUnimib/TimeSeriesAnalysis/assets/98222024/2627b511-b039-488b-a146-c7f43f633648)
+
+
 Project for the exam Streaming Data Management and Time Series Analysis. The objective of this analysis was to develop 3 models, belonging to the three families typically used in the analysis of time series, ARIMA, UCM, and Machine Learning, to study and correctly predict the electricity consumption in Morocco in a year.
+
 
 # List of content
  
